@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GENERAL_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+
+  <dependencies>
+
+          <!-- https://mvnrepository.com/artifact/com.alibaba.fastjson2/fastjson2 -->
+          <dependency>
+              <groupId>com.alibaba.fastjson2</groupId>
+              <artifactId>fastjson2</artifactId>
+              <version>2.0.22</version>
+          </dependency>
+
+      </dependencies>
+
+</module>
